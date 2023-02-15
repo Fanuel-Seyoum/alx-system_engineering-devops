@@ -1,1 +1,1 @@
-Shell basics project
+shell basics assignment
